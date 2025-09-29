@@ -1,5 +1,5 @@
 # 规则名称: global
-# 规则统计: 1146
+# 规则统计: 1148
 
 DOMAIN,7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe
 DOMAIN,ccmdl.adobe.com
@@ -89,6 +89,7 @@ DOMAIN-SUFFIX,appspot.com
 DOMAIN-SUFFIX,aptoide.com
 DOMAIN-SUFFIX,arc.net
 DOMAIN-SUFFIX,archive-it.org
+DOMAIN-SUFFIX,archive.li
 DOMAIN-SUFFIX,archive.org
 DOMAIN-SUFFIX,archive.today
 DOMAIN-SUFFIX,archiveofourown.org
@@ -419,6 +420,7 @@ DOMAIN-SUFFIX,goog
 DOMAIN-SUFFIX,googl.com
 DOMAIN-SUFFIX,gooogle.com
 DOMAIN-SUFFIX,gov
+DOMAIN-SUFFIX,gqhongkong.com
 DOMAIN-SUFFIX,grammarly.com
 DOMAIN-SUFFIX,grammarly.io
 DOMAIN-SUFFIX,greasyfork.org
