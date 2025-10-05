@@ -1,5 +1,5 @@
 # 规则名称: Microsoft
-# 规则统计: 120
+# 规则统计: 121
 
 HOST,7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe,Microsoft
 HOST,res-1.cdn.office.net,Microsoft
@@ -93,6 +93,7 @@ HOST-SUFFIX,skype.com,Microsoft
 HOST-SUFFIX,skypeassets.com,Microsoft
 HOST-SUFFIX,skypeforbusiness.com,Microsoft
 HOST-SUFFIX,staffhub.ms,Microsoft
+HOST-SUFFIX,storeedge.microsoft.com,Microsoft
 HOST-SUFFIX,storeedgefd.dsx.mp.microsoft.com,Microsoft
 HOST-SUFFIX,svc.ms,Microsoft
 HOST-SUFFIX,sway-cdn.com,Microsoft
