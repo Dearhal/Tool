@@ -1,5 +1,5 @@
 # 规则名称: Microsoft
-# 规则统计: 121
+# 规则统计: 155
 
 HOST,7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe,Microsoft
 HOST,res-1.cdn.office.net,Microsoft
@@ -18,7 +18,11 @@ HOST-SUFFIX,assets-yammer.com,Microsoft
 HOST-SUFFIX,azure.com,Microsoft
 HOST-SUFFIX,azure.net,Microsoft
 HOST-SUFFIX,azureedge.net,Microsoft
+HOST-SUFFIX,azuremigrate.download.prss.microsoft.com,Microsoft
+HOST-SUFFIX,azuremigratetest.download.prss.microsoft.com,Microsoft
 HOST-SUFFIX,azurerms.com,Microsoft
+HOST-SUFFIX,azurestackhub.download.prss.microsoft.com,Microsoft
+HOST-SUFFIX,azurestackhubuat.download.prss.microsoft.com,Microsoft
 HOST-SUFFIX,bing.com,Microsoft
 HOST-SUFFIX,bing.com.cn,Microsoft
 HOST-SUFFIX,bing.net,Microsoft
@@ -28,10 +32,13 @@ HOST-SUFFIX,bingapistatistics.com,Microsoft
 HOST-SUFFIX,bingsandbox.com,Microsoft
 HOST-SUFFIX,bingvisualsearch.com,Microsoft
 HOST-SUFFIX,bingworld.com,Microsoft
+HOST-SUFFIX,cbdstest.download.prss.microsoft.com,Microsoft
 HOST-SUFFIX,clarity.ms,Microsoft
 HOST-SUFFIX,cloudapp.net,Microsoft
 HOST-SUFFIX,cloudappsecurity.com,Microsoft
 HOST-SUFFIX,cn.windowssearch.com,Microsoft
+HOST-SUFFIX,collaborate.download.prss.microsoft.com,Microsoft
+HOST-SUFFIX,collaborateppe.download.prss.microsoft.com,Microsoft
 HOST-SUFFIX,ctldl.windowsupdate.com,Microsoft
 HOST-SUFFIX,devblogs.microsoft.com,Microsoft
 HOST-SUFFIX,developer.microsoft.com,Microsoft
@@ -39,9 +46,10 @@ HOST-SUFFIX,dl.delivery.mp.microsoft.com,Microsoft
 HOST-SUFFIX,docs.com,Microsoft
 HOST-SUFFIX,docs.microsoft.com,Microsoft
 HOST-SUFFIX,download.microsoft.com,Microsoft
-HOST-SUFFIX,download.prss.microsoft.com,Microsoft
 HOST-SUFFIX,download.visualstudio.microsoft.com,Microsoft
 HOST-SUFFIX,download.windowsupdate.com,Microsoft
+HOST-SUFFIX,dreamspark.download.prss.microsoft.com,Microsoft
+HOST-SUFFIX,dreamsparkuat.download.prss.microsoft.com,Microsoft
 HOST-SUFFIX,edgesuite.net,Microsoft
 HOST-SUFFIX,fs.microsoft.com,Microsoft
 HOST-SUFFIX,gfx.ms,Microsoft
@@ -50,13 +58,23 @@ HOST-SUFFIX,github.io,Microsoft
 HOST-SUFFIX,githubapp.com,Microsoft
 HOST-SUFFIX,githubassets.com,Microsoft
 HOST-SUFFIX,githubusercontent.com,Microsoft
+HOST-SUFFIX,itacademy.download.prss.microsoft.com,Microsoft
+HOST-SUFFIX,itacademyuat.download.prss.microsoft.com,Microsoft
 HOST-SUFFIX,learn.microsoft.com,Microsoft
+HOST-SUFFIX,lex.download.prss.microsoft.com,Microsoft
+HOST-SUFFIX,lexuat.download.prss.microsoft.com,Microsoft
 HOST-SUFFIX,live.com,Microsoft
 HOST-SUFFIX,live.net,Microsoft
 HOST-SUFFIX,lync.com,Microsoft
+HOST-SUFFIX,mbs.download.prss.microsoft.com,Microsoft
+HOST-SUFFIX,mpnbenefits.download.prss.microsoft.com,Microsoft
+HOST-SUFFIX,mpnbenefitsrtl.download.prss.microsoft.com,Microsoft
+HOST-SUFFIX,mpnbenefitsrtluat.download.prss.microsoft.com,Microsoft
 HOST-SUFFIX,msappproxy.net,Microsoft
 HOST-SUFFIX,msauth.net,Microsoft
 HOST-SUFFIX,msauthimages.net,Microsoft
+HOST-SUFFIX,msdn.download.prss.microsoft.com,Microsoft
+HOST-SUFFIX,msdprod-ad.download.prss.microsoft.com,Microsoft
 HOST-SUFFIX,msecnd.net,Microsoft
 HOST-SUFFIX,msedge.net,Microsoft
 HOST-SUFFIX,msft.net,Microsoft
@@ -67,23 +85,31 @@ HOST-SUFFIX,msidentity.com,Microsoft
 HOST-SUFFIX,msn.com,Microsoft
 HOST-SUFFIX,msocdn.com,Microsoft
 HOST-SUFFIX,msocsp.com,Microsoft
+HOST-SUFFIX,msproduct.download.prss.microsoft.com,Microsoft
 HOST-SUFFIX,mstea.ms,Microsoft
+HOST-SUFFIX,myvs.download.prss.microsoft.com,Microsoft
 HOST-SUFFIX,o365weve.com,Microsoft
 HOST-SUFFIX,oaspapps.com,Microsoft
+HOST-SUFFIX,oemsoc.download.prss.microsoft.com,Microsoft
+HOST-SUFFIX,oemsocuat.download.prss.microsoft.com,Microsoft
 HOST-SUFFIX,office.com,Microsoft
 HOST-SUFFIX,office.net,Microsoft
 HOST-SUFFIX,office365.com,Microsoft
 HOST-SUFFIX,officecdn.microsoft.com,Microsoft
+HOST-SUFFIX,officemkt.download.prss.microsoft.com,Microsoft
+HOST-SUFFIX,officemktuat.download.prss.microsoft.com,Microsoft
 HOST-SUFFIX,officeppe.net,Microsoft
 HOST-SUFFIX,omniroot.com,Microsoft
 HOST-SUFFIX,onedrive.com,Microsoft
 HOST-SUFFIX,onenote.com,Microsoft
 HOST-SUFFIX,onenote.net,Microsoft
 HOST-SUFFIX,onestore.ms,Microsoft
+HOST-SUFFIX,osrelease.download.prss.microsoft.com,Microsoft
 HOST-SUFFIX,outlook.com,Microsoft
 HOST-SUFFIX,outlookmobile.com,Microsoft
 HOST-SUFFIX,phonefactor.net,Microsoft
 HOST-SUFFIX,public-trust.com,Microsoft
+HOST-SUFFIX,rsm.download.prss.microsoft.com,Microsoft
 HOST-SUFFIX,sdx.microsoft.com,Microsoft
 HOST-SUFFIX,sfbassets.com,Microsoft
 HOST-SUFFIX,sfx.ms,Microsoft
@@ -92,9 +118,12 @@ HOST-SUFFIX,sharepointonline.com,Microsoft
 HOST-SUFFIX,skype.com,Microsoft
 HOST-SUFFIX,skypeassets.com,Microsoft
 HOST-SUFFIX,skypeforbusiness.com,Microsoft
+HOST-SUFFIX,software.download.prss.microsoft.com,Microsoft
 HOST-SUFFIX,staffhub.ms,Microsoft
+HOST-SUFFIX,storecorefulfillment.download.prss.microsoft.com,Microsoft
 HOST-SUFFIX,storeedge.microsoft.com,Microsoft
 HOST-SUFFIX,storeedgefd.dsx.mp.microsoft.com,Microsoft
+HOST-SUFFIX,surface.download.prss.microsoft.com,Microsoft
 HOST-SUFFIX,svc.ms,Microsoft
 HOST-SUFFIX,sway-cdn.com,Microsoft
 HOST-SUFFIX,sway-extensions.com,Microsoft
@@ -103,6 +132,11 @@ HOST-SUFFIX,trafficmanager.net,Microsoft
 HOST-SUFFIX,uservoice.com,Microsoft
 HOST-SUFFIX,virtualearth.net,Microsoft
 HOST-SUFFIX,visualstudio.com,Microsoft
+HOST-SUFFIX,vlportal.download.prss.microsoft.com,Microsoft
+HOST-SUFFIX,volic.download.prss.microsoft.com,Microsoft
+HOST-SUFFIX,vscode.download.prss.microsoft.com,Microsoft
+HOST-SUFFIX,vz.download.prss.microsoft.com,Microsoft
+HOST-SUFFIX,windbg.download.prss.microsoft.com,Microsoft
 HOST-SUFFIX,windows-ppe.net,Microsoft
 HOST-SUFFIX,windows.com,Microsoft
 HOST-SUFFIX,windows.net,Microsoft
