@@ -1,5 +1,5 @@
 # 规则名称: global
-# 规则统计: 1148
+# 规则统计: 1150
 
 HOST,7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe,global
 HOST,ccmdl.adobe.com,global
@@ -49,6 +49,8 @@ HOST-SUFFIX,activated.win,global
 HOST-SUFFIX,adguard-dns.io,global
 HOST-SUFFIX,adguard.com,global
 HOST-SUFFIX,adguard.org,global
+HOST-SUFFIX,adguardaccount.com,global
+HOST-SUFFIX,adguardcdn.com,global
 HOST-SUFFIX,adidas.com,global
 HOST-SUFFIX,aex.com,global
 HOST-SUFFIX,afraid.org,global

@@ -1,5 +1,5 @@
 # 规则名称: global
-# 规则统计: 1148
+# 规则统计: 1150
 
 DOMAIN,7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe
 DOMAIN,ccmdl.adobe.com
@@ -49,6 +49,8 @@ DOMAIN-SUFFIX,activated.win
 DOMAIN-SUFFIX,adguard-dns.io
 DOMAIN-SUFFIX,adguard.com
 DOMAIN-SUFFIX,adguard.org
+DOMAIN-SUFFIX,adguardaccount.com
+DOMAIN-SUFFIX,adguardcdn.com
 DOMAIN-SUFFIX,adidas.com
 DOMAIN-SUFFIX,aex.com
 DOMAIN-SUFFIX,afraid.org
