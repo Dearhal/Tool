@@ -1,5 +1,5 @@
 # 规则名称: global
-# 规则统计: 1152
+# 规则统计: 1154
 
 HOST,7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe,global
 HOST,ccmdl.adobe.com,global
@@ -198,6 +198,7 @@ HOST-SUFFIX,clips4sale.com,global
 HOST-SUFFIX,cloudapp.net,global
 HOST-SUFFIX,cloudflare-dns.com,global
 HOST-SUFFIX,cloudflare.com,global
+HOST-SUFFIX,cloudflare.dev,global
 HOST-SUFFIX,cloudflareaccess.com,global
 HOST-SUFFIX,cloudflareresolve.com,global
 HOST-SUFFIX,cloudflarestatus.com,global
@@ -446,6 +447,7 @@ HOST-SUFFIX,gvt7.com,global
 HOST-SUFFIX,gvt9.com,global
 HOST-SUFFIX,gwtproject.org,global
 HOST-SUFFIX,hackmd.io,global
+HOST-SUFFIX,hanime1.com,global
 HOST-SUFFIX,hanime1.me,global
 HOST-SUFFIX,hanimeone.me,global
 HOST-SUFFIX,hanmail.net,global
