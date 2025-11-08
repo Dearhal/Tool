@@ -1,5 +1,5 @@
 # 规则名称: global
-# 规则统计: 1155
+# 规则统计: 1170
 
 HOST,7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe,global
 HOST,ccmdl.adobe.com,global
@@ -23,6 +23,7 @@ HOST-SUFFIX,1password.com,global
 HOST-SUFFIX,1passwordservices.com,global
 HOST-SUFFIX,1point3acres.com,global
 HOST-SUFFIX,24.com,global
+HOST-SUFFIX,2ch.sc,global
 HOST-SUFFIX,360ssh.com,global
 HOST-SUFFIX,3movs.com,global
 HOST-SUFFIX,4cdn.org,global
@@ -110,6 +111,7 @@ HOST-SUFFIX,au,global
 HOST-SUFFIX,auth0.com,global
 HOST-SUFFIX,autodesk.com,global
 HOST-SUFFIX,autodraw.com,global
+HOST-SUFFIX,av28.com,global
 HOST-SUFFIX,avg.com,global
 HOST-SUFFIX,avgle.com,global
 HOST-SUFFIX,avtoday.io,global
@@ -154,6 +156,7 @@ HOST-SUFFIX,bleepingcomputer.com,global
 HOST-SUFFIX,blizzard.com,global
 HOST-SUFFIX,blogblog.com,global
 HOST-SUFFIX,blogger.com,global
+HOST-SUFFIX,blogjav.net,global
 HOST-SUFFIX,bloomberg.com,global
 HOST-SUFFIX,bloomberg.net,global
 HOST-SUFFIX,bnbstatic.com,global
@@ -174,7 +177,9 @@ HOST-SUFFIX,cal.com,global
 HOST-SUFFIX,cam4.com,global
 HOST-SUFFIX,camsoda.com,global
 HOST-SUFFIX,canarymail.io,global
+HOST-SUFFIX,cangku.moe,global
 HOST-SUFFIX,capitalg.com,global
+HOST-SUFFIX,catbox.moe,global
 HOST-SUFFIX,cbs.com,global
 HOST-SUFFIX,cbslocal.com,global
 HOST-SUFFIX,cbsnews.com,global
@@ -378,6 +383,7 @@ HOST-SUFFIX,gcr.io,global
 HOST-SUFFIX,gd,global
 HOST-SUFFIX,geekbench.com,global
 HOST-SUFFIX,gelbooru.com,global
+HOST-SUFFIX,generated.photos,global
 HOST-SUFFIX,genius.com,global
 HOST-SUFFIX,getchu.com,global
 HOST-SUFFIX,getmdl.io,global
@@ -433,6 +439,7 @@ HOST-SUFFIX,greatfire.org,global
 HOST-SUFFIX,greenhouse.io,global
 HOST-SUFFIX,grep.app,global
 HOST-SUFFIX,grindr.com,global
+HOST-SUFFIX,ground.news,global
 HOST-SUFFIX,gs,global
 HOST-SUFFIX,gstatic.com,global
 HOST-SUFFIX,gumroad.com,global
@@ -510,6 +517,7 @@ HOST-SUFFIX,indiegogo.com,global
 HOST-SUFFIX,influxdata.com,global
 HOST-SUFFIX,infoq.com,global
 HOST-SUFFIX,initiummall.com,global
+HOST-SUFFIX,instagr.am,global
 HOST-SUFFIX,instagram.com,global
 HOST-SUFFIX,instatus.com,global
 HOST-SUFFIX,intel.com,global
@@ -525,15 +533,18 @@ HOST-SUFFIX,istatmenus.app,global
 HOST-SUFFIX,istockphoto.com,global
 HOST-SUFFIX,it,global
 HOST-SUFFIX,itasoftware.com,global
+HOST-SUFFIX,itch.io,global
 HOST-SUFFIX,ixxx.com,global
 HOST-SUFFIX,j.mp,global
 HOST-SUFFIX,jav.pw,global
+HOST-SUFFIX,jav321.com,global
 HOST-SUFFIX,java.com,global
 HOST-SUFFIX,javbus.com,global
 HOST-SUFFIX,javdb.com,global
 HOST-SUFFIX,javdove.com,global
 HOST-SUFFIX,javhd.com,global
 HOST-SUFFIX,javhd.today,global
+HOST-SUFFIX,javhub.net,global
 HOST-SUFFIX,javlibrary.com,global
 HOST-SUFFIX,javmost.com,global
 HOST-SUFFIX,javtrailers.com,global
@@ -775,6 +786,7 @@ HOST-SUFFIX,pm,global
 HOST-SUFFIX,podbean.com,global
 HOST-SUFFIX,poeditor.com,global
 HOST-SUFFIX,polymer-project.org,global
+HOST-SUFFIX,pomf.cat,global
 HOST-SUFFIX,porn.com,global
 HOST-SUFFIX,porngo.com,global
 HOST-SUFFIX,pornhd.com,global
@@ -1051,6 +1063,7 @@ HOST-SUFFIX,vpnunlimited.com,global
 HOST-SUFFIX,vrporn.com,global
 HOST-SUFFIX,vxtwitter.com,global
 HOST-SUFFIX,vzw.com,global
+HOST-SUFFIX,w.wiki,global
 HOST-SUFFIX,w3schools.com,global
 HOST-SUFFIX,wa.me,global
 HOST-SUFFIX,waifu2x.net,global
@@ -1141,11 +1154,13 @@ HOST-SUFFIX,ytimg.com,global
 HOST-SUFFIX,z.com,global
 HOST-SUFFIX,za,global
 HOST-SUFFIX,zbporn.com,global
+HOST-SUFFIX,zdnet.com,global
 HOST-SUFFIX,zello.com,global
 HOST-SUFFIX,zendesk.com,global
 HOST-SUFFIX,zenn.dev,global
 HOST-SUFFIX,zerochan.net,global
 HOST-SUFFIX,zndsk.com,global
+HOST-SUFFIX,zoominfo.com,global
 HOST-KEYWORD,blogspot,global
 HOST-KEYWORD,browserleaks,global
 HOST-KEYWORD,discord,global

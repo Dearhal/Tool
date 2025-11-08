@@ -1,5 +1,5 @@
 # 规则名称: global
-# 规则统计: 1155
+# 规则统计: 1170
 
 DOMAIN,7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe
 DOMAIN,ccmdl.adobe.com
@@ -23,6 +23,7 @@ DOMAIN-SUFFIX,1password.com
 DOMAIN-SUFFIX,1passwordservices.com
 DOMAIN-SUFFIX,1point3acres.com
 DOMAIN-SUFFIX,24.com
+DOMAIN-SUFFIX,2ch.sc
 DOMAIN-SUFFIX,360ssh.com
 DOMAIN-SUFFIX,3movs.com
 DOMAIN-SUFFIX,4cdn.org
@@ -110,6 +111,7 @@ DOMAIN-SUFFIX,au
 DOMAIN-SUFFIX,auth0.com
 DOMAIN-SUFFIX,autodesk.com
 DOMAIN-SUFFIX,autodraw.com
+DOMAIN-SUFFIX,av28.com
 DOMAIN-SUFFIX,avg.com
 DOMAIN-SUFFIX,avgle.com
 DOMAIN-SUFFIX,avtoday.io
@@ -154,6 +156,7 @@ DOMAIN-SUFFIX,bleepingcomputer.com
 DOMAIN-SUFFIX,blizzard.com
 DOMAIN-SUFFIX,blogblog.com
 DOMAIN-SUFFIX,blogger.com
+DOMAIN-SUFFIX,blogjav.net
 DOMAIN-SUFFIX,bloomberg.com
 DOMAIN-SUFFIX,bloomberg.net
 DOMAIN-SUFFIX,bnbstatic.com
@@ -174,7 +177,9 @@ DOMAIN-SUFFIX,cal.com
 DOMAIN-SUFFIX,cam4.com
 DOMAIN-SUFFIX,camsoda.com
 DOMAIN-SUFFIX,canarymail.io
+DOMAIN-SUFFIX,cangku.moe
 DOMAIN-SUFFIX,capitalg.com
+DOMAIN-SUFFIX,catbox.moe
 DOMAIN-SUFFIX,cbs.com
 DOMAIN-SUFFIX,cbslocal.com
 DOMAIN-SUFFIX,cbsnews.com
@@ -378,6 +383,7 @@ DOMAIN-SUFFIX,gcr.io
 DOMAIN-SUFFIX,gd
 DOMAIN-SUFFIX,geekbench.com
 DOMAIN-SUFFIX,gelbooru.com
+DOMAIN-SUFFIX,generated.photos
 DOMAIN-SUFFIX,genius.com
 DOMAIN-SUFFIX,getchu.com
 DOMAIN-SUFFIX,getmdl.io
@@ -433,6 +439,7 @@ DOMAIN-SUFFIX,greatfire.org
 DOMAIN-SUFFIX,greenhouse.io
 DOMAIN-SUFFIX,grep.app
 DOMAIN-SUFFIX,grindr.com
+DOMAIN-SUFFIX,ground.news
 DOMAIN-SUFFIX,gs
 DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,gumroad.com
@@ -510,6 +517,7 @@ DOMAIN-SUFFIX,indiegogo.com
 DOMAIN-SUFFIX,influxdata.com
 DOMAIN-SUFFIX,infoq.com
 DOMAIN-SUFFIX,initiummall.com
+DOMAIN-SUFFIX,instagr.am
 DOMAIN-SUFFIX,instagram.com
 DOMAIN-SUFFIX,instatus.com
 DOMAIN-SUFFIX,intel.com
@@ -525,15 +533,18 @@ DOMAIN-SUFFIX,istatmenus.app
 DOMAIN-SUFFIX,istockphoto.com
 DOMAIN-SUFFIX,it
 DOMAIN-SUFFIX,itasoftware.com
+DOMAIN-SUFFIX,itch.io
 DOMAIN-SUFFIX,ixxx.com
 DOMAIN-SUFFIX,j.mp
 DOMAIN-SUFFIX,jav.pw
+DOMAIN-SUFFIX,jav321.com
 DOMAIN-SUFFIX,java.com
 DOMAIN-SUFFIX,javbus.com
 DOMAIN-SUFFIX,javdb.com
 DOMAIN-SUFFIX,javdove.com
 DOMAIN-SUFFIX,javhd.com
 DOMAIN-SUFFIX,javhd.today
+DOMAIN-SUFFIX,javhub.net
 DOMAIN-SUFFIX,javlibrary.com
 DOMAIN-SUFFIX,javmost.com
 DOMAIN-SUFFIX,javtrailers.com
@@ -775,6 +786,7 @@ DOMAIN-SUFFIX,pm
 DOMAIN-SUFFIX,podbean.com
 DOMAIN-SUFFIX,poeditor.com
 DOMAIN-SUFFIX,polymer-project.org
+DOMAIN-SUFFIX,pomf.cat
 DOMAIN-SUFFIX,porn.com
 DOMAIN-SUFFIX,porngo.com
 DOMAIN-SUFFIX,pornhd.com
@@ -1051,6 +1063,7 @@ DOMAIN-SUFFIX,vpnunlimited.com
 DOMAIN-SUFFIX,vrporn.com
 DOMAIN-SUFFIX,vxtwitter.com
 DOMAIN-SUFFIX,vzw.com
+DOMAIN-SUFFIX,w.wiki
 DOMAIN-SUFFIX,w3schools.com
 DOMAIN-SUFFIX,wa.me
 DOMAIN-SUFFIX,waifu2x.net
@@ -1141,11 +1154,13 @@ DOMAIN-SUFFIX,ytimg.com
 DOMAIN-SUFFIX,z.com
 DOMAIN-SUFFIX,za
 DOMAIN-SUFFIX,zbporn.com
+DOMAIN-SUFFIX,zdnet.com
 DOMAIN-SUFFIX,zello.com
 DOMAIN-SUFFIX,zendesk.com
 DOMAIN-SUFFIX,zenn.dev
 DOMAIN-SUFFIX,zerochan.net
 DOMAIN-SUFFIX,zndsk.com
+DOMAIN-SUFFIX,zoominfo.com
 DOMAIN-KEYWORD,blogspot
 DOMAIN-KEYWORD,browserleaks
 DOMAIN-KEYWORD,discord
