@@ -1,5 +1,5 @@
 # 规则名称: global
-# 规则统计: 1172
+# 规则统计: 1187
 
 HOST,7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe,global
 HOST,ccmdl.adobe.com,global
@@ -467,6 +467,7 @@ HOST-SUFFIX,he.net,global
 HOST-SUFFIX,hentaifox.com,global
 HOST-SUFFIX,hentaipaw.com,global
 HOST-SUFFIX,hentaiplay.net,global
+HOST-SUFFIX,hentaistream.com,global
 HOST-SUFFIX,heroku.com,global
 HOST-SUFFIX,herokuapp.com,global
 HOST-SUFFIX,hetzner.com,global
@@ -550,6 +551,7 @@ HOST-SUFFIX,javmost.com,global
 HOST-SUFFIX,javtrailers.com,global
 HOST-SUFFIX,javtsunami.com,global
 HOST-SUFFIX,javwind.com,global
+HOST-SUFFIX,javynow.com,global
 HOST-SUFFIX,jirachecklist.com,global
 HOST-SUFFIX,jkforum.net,global
 HOST-SUFFIX,jotform.com,global
@@ -573,6 +575,7 @@ HOST-SUFFIX,kinja.com,global
 HOST-SUFFIX,kisscos.net,global
 HOST-SUFFIX,kknews.cc,global
 HOST-SUFFIX,knock.app,global
+HOST-SUFFIX,knowyourmeme.com,global
 HOST-SUFFIX,ko-fi.com,global
 HOST-SUFFIX,kobo.com,global
 HOST-SUFFIX,komoot.com,global
@@ -660,6 +663,7 @@ HOST-SUFFIX,mixer.com,global
 HOST-SUFFIX,mn,global
 HOST-SUFFIX,mobile01.com,global
 HOST-SUFFIX,modrinth.com,global
+HOST-SUFFIX,moeload.com,global
 HOST-SUFFIX,mojang.com,global
 HOST-SUFFIX,monica.im,global
 HOST-SUFFIX,moomoo.com,global
@@ -673,6 +677,7 @@ HOST-SUFFIX,mullvad.net,global
 HOST-SUFFIX,mx,global
 HOST-SUFFIX,my,global
 HOST-SUFFIX,myanimelist.net,global
+HOST-SUFFIX,myanimeshelf.com,global
 HOST-SUFFIX,mydnsleaktest.com,global
 HOST-SUFFIX,myfreecams.com,global
 HOST-SUFFIX,myipstack.com,global
@@ -740,6 +745,7 @@ HOST-SUFFIX,okcoin.com,global
 HOST-SUFFIX,okex.com,global
 HOST-SUFFIX,okx.com,global
 HOST-SUFFIX,olelive.com,global
+HOST-SUFFIX,olevod.com,global
 HOST-SUFFIX,olympics.com,global
 HOST-SUFFIX,one,global
 HOST-SUFFIX,one.com,global
@@ -772,6 +778,7 @@ HOST-SUFFIX,picacgy.com,global
 HOST-SUFFIX,picacn.xyz,global
 HOST-SUFFIX,picacomic.com,global
 HOST-SUFFIX,picacomic.xyz,global
+HOST-SUFFIX,pigav.com,global
 HOST-SUFFIX,pikpak.me,global
 HOST-SUFFIX,ping0.cc,global
 HOST-SUFFIX,pinimg.com,global
@@ -788,8 +795,11 @@ HOST-SUFFIX,poeditor.com,global
 HOST-SUFFIX,polymer-project.org,global
 HOST-SUFFIX,pomf.cat,global
 HOST-SUFFIX,porn.com,global
+HOST-SUFFIX,porn87.com,global
+HOST-SUFFIX,porndig.com,global
 HOST-SUFFIX,porngo.com,global
 HOST-SUFFIX,pornhd.com,global
+HOST-SUFFIX,pornhost.com,global
 HOST-SUFFIX,pornhub.com,global
 HOST-SUFFIX,pornhub.org,global
 HOST-SUFFIX,pornmd.com,global
@@ -902,6 +912,7 @@ HOST-SUFFIX,sketch.cloud,global
 HOST-SUFFIX,sketch.com,global
 HOST-SUFFIX,skk.moe,global
 HOST-SUFFIX,slack.com,global
+HOST-SUFFIX,slackhq.com,global
 HOST-SUFFIX,sleazyfork.org,global
 HOST-SUFFIX,slideshare.net,global
 HOST-SUFFIX,smartmailcloud.com,global
@@ -1011,6 +1022,7 @@ HOST-SUFFIX,trustpilot.com,global
 HOST-SUFFIX,trustpilot.net,global
 HOST-SUFFIX,truthsocial.com,global
 HOST-SUFFIX,tt,global
+HOST-SUFFIX,tube8.com,global
 HOST-SUFFIX,tumblr.com,global
 HOST-SUFFIX,tunein.com,global
 HOST-SUFFIX,turbobit.net,global
@@ -1027,8 +1039,10 @@ HOST-SUFFIX,ubuntu.com,global
 HOST-SUFFIX,udn.com,global
 HOST-SUFFIX,ui.com,global
 HOST-SUFFIX,uk,global
+HOST-SUFFIX,umblr.com,global
 HOST-SUFFIX,upcitemdb.com,global
 HOST-SUFFIX,updownradar.com,global
+HOST-SUFFIX,upjav.org,global
 HOST-SUFFIX,upornia.com,global
 HOST-SUFFIX,uptimerobot.com,global
 HOST-SUFFIX,uptodown.com,global
@@ -1112,6 +1126,7 @@ HOST-SUFFIX,windy.com,global
 HOST-SUFFIX,wireguard.com,global
 HOST-SUFFIX,wireshark.org,global
 HOST-SUFFIX,wix.com,global
+HOST-SUFFIX,wmflabs.org,global
 HOST-SUFFIX,wmfusercontent.org,global
 HOST-SUFFIX,wnacg.com,global
 HOST-SUFFIX,wordpress.com,global

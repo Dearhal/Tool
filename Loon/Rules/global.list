@@ -1,5 +1,5 @@
 # 规则名称: global
-# 规则统计: 1172
+# 规则统计: 1187
 
 DOMAIN,7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe
 DOMAIN,ccmdl.adobe.com
@@ -467,6 +467,7 @@ DOMAIN-SUFFIX,he.net
 DOMAIN-SUFFIX,hentaifox.com
 DOMAIN-SUFFIX,hentaipaw.com
 DOMAIN-SUFFIX,hentaiplay.net
+DOMAIN-SUFFIX,hentaistream.com
 DOMAIN-SUFFIX,heroku.com
 DOMAIN-SUFFIX,herokuapp.com
 DOMAIN-SUFFIX,hetzner.com
@@ -550,6 +551,7 @@ DOMAIN-SUFFIX,javmost.com
 DOMAIN-SUFFIX,javtrailers.com
 DOMAIN-SUFFIX,javtsunami.com
 DOMAIN-SUFFIX,javwind.com
+DOMAIN-SUFFIX,javynow.com
 DOMAIN-SUFFIX,jirachecklist.com
 DOMAIN-SUFFIX,jkforum.net
 DOMAIN-SUFFIX,jotform.com
@@ -573,6 +575,7 @@ DOMAIN-SUFFIX,kinja.com
 DOMAIN-SUFFIX,kisscos.net
 DOMAIN-SUFFIX,kknews.cc
 DOMAIN-SUFFIX,knock.app
+DOMAIN-SUFFIX,knowyourmeme.com
 DOMAIN-SUFFIX,ko-fi.com
 DOMAIN-SUFFIX,kobo.com
 DOMAIN-SUFFIX,komoot.com
@@ -660,6 +663,7 @@ DOMAIN-SUFFIX,mixer.com
 DOMAIN-SUFFIX,mn
 DOMAIN-SUFFIX,mobile01.com
 DOMAIN-SUFFIX,modrinth.com
+DOMAIN-SUFFIX,moeload.com
 DOMAIN-SUFFIX,mojang.com
 DOMAIN-SUFFIX,monica.im
 DOMAIN-SUFFIX,moomoo.com
@@ -673,6 +677,7 @@ DOMAIN-SUFFIX,mullvad.net
 DOMAIN-SUFFIX,mx
 DOMAIN-SUFFIX,my
 DOMAIN-SUFFIX,myanimelist.net
+DOMAIN-SUFFIX,myanimeshelf.com
 DOMAIN-SUFFIX,mydnsleaktest.com
 DOMAIN-SUFFIX,myfreecams.com
 DOMAIN-SUFFIX,myipstack.com
@@ -740,6 +745,7 @@ DOMAIN-SUFFIX,okcoin.com
 DOMAIN-SUFFIX,okex.com
 DOMAIN-SUFFIX,okx.com
 DOMAIN-SUFFIX,olelive.com
+DOMAIN-SUFFIX,olevod.com
 DOMAIN-SUFFIX,olympics.com
 DOMAIN-SUFFIX,one
 DOMAIN-SUFFIX,one.com
@@ -772,6 +778,7 @@ DOMAIN-SUFFIX,picacgy.com
 DOMAIN-SUFFIX,picacn.xyz
 DOMAIN-SUFFIX,picacomic.com
 DOMAIN-SUFFIX,picacomic.xyz
+DOMAIN-SUFFIX,pigav.com
 DOMAIN-SUFFIX,pikpak.me
 DOMAIN-SUFFIX,ping0.cc
 DOMAIN-SUFFIX,pinimg.com
@@ -788,8 +795,11 @@ DOMAIN-SUFFIX,poeditor.com
 DOMAIN-SUFFIX,polymer-project.org
 DOMAIN-SUFFIX,pomf.cat
 DOMAIN-SUFFIX,porn.com
+DOMAIN-SUFFIX,porn87.com
+DOMAIN-SUFFIX,porndig.com
 DOMAIN-SUFFIX,porngo.com
 DOMAIN-SUFFIX,pornhd.com
+DOMAIN-SUFFIX,pornhost.com
 DOMAIN-SUFFIX,pornhub.com
 DOMAIN-SUFFIX,pornhub.org
 DOMAIN-SUFFIX,pornmd.com
@@ -902,6 +912,7 @@ DOMAIN-SUFFIX,sketch.cloud
 DOMAIN-SUFFIX,sketch.com
 DOMAIN-SUFFIX,skk.moe
 DOMAIN-SUFFIX,slack.com
+DOMAIN-SUFFIX,slackhq.com
 DOMAIN-SUFFIX,sleazyfork.org
 DOMAIN-SUFFIX,slideshare.net
 DOMAIN-SUFFIX,smartmailcloud.com
@@ -1011,6 +1022,7 @@ DOMAIN-SUFFIX,trustpilot.com
 DOMAIN-SUFFIX,trustpilot.net
 DOMAIN-SUFFIX,truthsocial.com
 DOMAIN-SUFFIX,tt
+DOMAIN-SUFFIX,tube8.com
 DOMAIN-SUFFIX,tumblr.com
 DOMAIN-SUFFIX,tunein.com
 DOMAIN-SUFFIX,turbobit.net
@@ -1027,8 +1039,10 @@ DOMAIN-SUFFIX,ubuntu.com
 DOMAIN-SUFFIX,udn.com
 DOMAIN-SUFFIX,ui.com
 DOMAIN-SUFFIX,uk
+DOMAIN-SUFFIX,umblr.com
 DOMAIN-SUFFIX,upcitemdb.com
 DOMAIN-SUFFIX,updownradar.com
+DOMAIN-SUFFIX,upjav.org
 DOMAIN-SUFFIX,upornia.com
 DOMAIN-SUFFIX,uptimerobot.com
 DOMAIN-SUFFIX,uptodown.com
@@ -1112,6 +1126,7 @@ DOMAIN-SUFFIX,windy.com
 DOMAIN-SUFFIX,wireguard.com
 DOMAIN-SUFFIX,wireshark.org
 DOMAIN-SUFFIX,wix.com
+DOMAIN-SUFFIX,wmflabs.org
 DOMAIN-SUFFIX,wmfusercontent.org
 DOMAIN-SUFFIX,wnacg.com
 DOMAIN-SUFFIX,wordpress.com
