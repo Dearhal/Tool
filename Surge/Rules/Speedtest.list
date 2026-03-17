@@ -1,5 +1,5 @@
 # 规则名称: Speedtest
-# 规则统计: 2929
+# 规则统计: 2950
 
 DOMAIN,1010.hkspeedtest.com
 DOMAIN,172673828273027382738738.de
@@ -87,11 +87,13 @@ DOMAIN,crls-speedtest-02.brightspeed.com
 DOMAIN,csfw.fj.chinamobile.com
 DOMAIN,csl.hkspeedtest.com
 DOMAIN,cspeedtest.candorsolution.com
+DOMAIN,ct-speed.kbro.com.tw
 DOMAIN,cugspeed.chinaunicomglobal.com
 DOMAIN,cuscspeed.169ol.com
 DOMAIN,custom.tbcnet.net.tw
 DOMAIN,cwf-speedtest-se.clearwave.com
 DOMAIN,d-pcommunications.com
+DOMAIN,da-speed.kbro.com.tw
 DOMAIN,dabwali.softechinfosol.com
 DOMAIN,dal-speedtest.net.sangoma.net
 DOMAIN,dal-speedtest.transtelco.net
@@ -163,6 +165,7 @@ DOMAIN,gre.bbr.ookla.bytel.fr
 DOMAIN,gun1speedtest.turktelekom.com.tr
 DOMAIN,guwahati-speedtest.ishancloud.com
 DOMAIN,guwahati.neconnect.in
+DOMAIN,gvc-speed.twmbroadband.com
 DOMAIN,gwh.speedtest.railtel.in
 DOMAIN,h1-speedtest-ba.htelecom.es
 DOMAIN,h1speedtest.htelecom.es
@@ -185,6 +188,7 @@ DOMAIN,hkgspeedtest.cmctelecom.vn
 DOMAIN,hkspeedtest.netvigator.com
 DOMAIN,hkt.hkspeedtest.com
 DOMAIN,hkthspeedtest02.telstraglobal.net
+DOMAIN,hl-speed.twmbroadband.com
 DOMAIN,hmb-tc.wsqm.telekom-dienste.de
 DOMAIN,hoshiyomi.ratatoskr.org
 DOMAIN,hs13.aratwifi.com.tr
@@ -228,7 +232,9 @@ DOMAIN,kmlpbcnu-speedtest-01.telus.com
 DOMAIN,konya.verinomidns.com
 DOMAIN,konyaspeed.fizynet.com.tr
 DOMAIN,koreaspeedtest.cmctelecom.vn
+DOMAIN,kp-speed.kbro.com.tw
 DOMAIN,krllooklaspeed1.jioconnect.com
+DOMAIN,ks-speed.kbro.com.tw
 DOMAIN,ks-speedtest.homeplus.net.tw
 DOMAIN,ksc11-speedtest01.as15108.com
 DOMAIN,kscy.speedtest.fastwyre.com
@@ -307,6 +313,7 @@ DOMAIN,manchester.speedtest.razorblue.com
 DOMAIN,mars-speedtest.guzel.net.tr
 DOMAIN,marseille3.d2m.c2d.liveservices.fr
 DOMAIN,massarosa-1.speedtest.welcomeitalia.it
+DOMAIN,mct-speed.twmbroadband.com
 DOMAIN,medidor.nortelecom.com.br
 DOMAIN,melndm1speed1.wireline.com.au
 DOMAIN,mensura.cdn-apple.com
@@ -344,6 +351,7 @@ DOMAIN,mumspeedtest.uvfiber.com
 DOMAIN,mumst.bfiber.in
 DOMAIN,nancy.bbr.ookla.bytel.fr
 DOMAIN,navegaooklafortaleza.navegamais.com.br
+DOMAIN,ncc-speed.kbro.com.tw
 DOMAIN,net-ookla-dc.p.foundation
 DOMAIN,net-speed1-pp.ewetel.de
 DOMAIN,netperf-pl.gigatrans.ua
@@ -364,8 +372,11 @@ DOMAIN,ns1.fab5network.com
 DOMAIN,ns1.fybrg.in
 DOMAIN,ns10.fab5network.com
 DOMAIN,ns2.peer.net.in
+DOMAIN,nt-speed.kbro.com.tw
+DOMAIN,ntp-speed.kbro.com.tw
 DOMAIN,ntp-speedtest.homeplus.net.tw
 DOMAIN,ntp1.chtm.hinet.net
+DOMAIN,nty-speed.kbro.com.tw
 DOMAIN,nuevotest.telecable.es
 DOMAIN,nvmbooklaspeed1.jioconnect.com
 DOMAIN,ny.st.spacecore.pro
@@ -511,6 +522,7 @@ DOMAIN,pau.bbr.ookla.bytel.fr
 DOMAIN,pauseq4vost1.datamossa.cloud
 DOMAIN,perf-01.ixn.as42689.net
 DOMAIN,perf.keyyo.net
+DOMAIN,phc-speed.twmbroadband.com
 DOMAIN,phl01.screenshot.download
 DOMAIN,phlph0001speedtestserver02.wiline.com
 DOMAIN,phoenix1.cabospeed.com
@@ -726,6 +738,7 @@ DOMAIN,speed.beachnet.com.br
 DOMAIN,speed.bitnettecnologia.com.br
 DOMAIN,speed.bne.aussiebroadband.com.au
 DOMAIN,speed.brandaonet.com.br
+DOMAIN,speed.cable-giant.com.tw
 DOMAIN,speed.cablelink.at
 DOMAIN,speed.catlabroadband.in
 DOMAIN,speed.circlecityinternet.com
@@ -1055,6 +1068,7 @@ DOMAIN,speedtest-phl.dish-wireless.com
 DOMAIN,speedtest-phx.dish-wireless.com
 DOMAIN,speedtest-pit.omnifiber.com
 DOMAIN,speedtest-pl.the.hosting
+DOMAIN,speedtest-preston-wv.prodigiwv.net
 DOMAIN,speedtest-prs.vts.bf
 DOMAIN,speedtest-pth.vocus.net
 DOMAIN,speedtest-rd-1.zoominternet.net
@@ -1543,6 +1557,7 @@ DOMAIN,speedtest.japanettelecom.com.br
 DOMAIN,speedtest.jbarbieri.net
 DOMAIN,speedtest.jcnettelecom.com
 DOMAIN,speedtest.jeebr.net
+DOMAIN,speedtest.jetair.net.in
 DOMAIN,speedtest.jetspeed.com.br
 DOMAIN,speedtest.jmdi.pl
 DOMAIN,speedtest.jonasdevries.net
@@ -2440,6 +2455,8 @@ DOMAIN,st-balikesirbandirma-1.turksatkablo.com.tr
 DOMAIN,st-be-ba1.infra.garr.it
 DOMAIN,st-be-bo1.infra.garr.it
 DOMAIN,st-be-rm2.infra.garr.it
+DOMAIN,st-be.ba1.infra.garr.it
+DOMAIN,st-be.bo1.infra.garr.it
 DOMAIN,st-bolu-1.turksatkablo.com.tr
 DOMAIN,st-bursa-1.turksatkablo.com.tr
 DOMAIN,st-chicago.sumofiber.com
@@ -2654,6 +2671,7 @@ DOMAIN,syrny-speedtest-ookla-02.st.charter.com
 DOMAIN,t-moni.nebulax.digital
 DOMAIN,t4y-tor-sts1.ser.tek4you.ca
 DOMAIN,t4y-toronto-ca-osts1.ser.tek4you.ca
+DOMAIN,tc-speed.kbro.com.tw
 DOMAIN,tc1.chtm.hinet.net
 DOMAIN,tdc01-speedtest.whipcord.com
 DOMAIN,tem11-speedtest01.as15108.com
@@ -2764,6 +2782,7 @@ DOMAIN,ty-bgp-speedtest.nearoute.io
 DOMAIN,ty-speedtest.homeplus.net.tw
 DOMAIN,ty1.chtm.hinet.net
 DOMAIN,tyo.st.spacecore.pro
+DOMAIN,uc-speed.kbro.com.tw
 DOMAIN,uk-lon-tcy-mtn-speedtest-server-01.mtn.com
 DOMAIN,ukms-speedtest.tropicalgames.net
 DOMAIN,uls1speedtest.turktelekom.com.tr
@@ -2842,7 +2861,9 @@ DOMAIN,wh-netspeed.nwtel.ca
 DOMAIN,wipl-speedtest.wipl.online
 DOMAIN,wpa-speed.magna5.com
 DOMAIN,wrsw-speedtest-02.brightspeed.com
+DOMAIN,yjl-speed.twmbroadband.com
 DOMAIN,yk-netspeed.nwtel.ca
+DOMAIN,yms-speed.kbro.com.tw
 DOMAIN,yyc-speedtest.xplore.ca
 DOMAIN,yyc-speedtest02.xplore.ca
 DOMAIN,yyz-speedtest.xplore.ca

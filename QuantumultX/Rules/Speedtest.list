@@ -1,5 +1,5 @@
 # 规则名称: Speedtest
-# 规则统计: 2929
+# 规则统计: 2950
 
 HOST,1010.hkspeedtest.com,Speedtest
 HOST,172673828273027382738738.de,Speedtest
@@ -87,11 +87,13 @@ HOST,crls-speedtest-02.brightspeed.com,Speedtest
 HOST,csfw.fj.chinamobile.com,Speedtest
 HOST,csl.hkspeedtest.com,Speedtest
 HOST,cspeedtest.candorsolution.com,Speedtest
+HOST,ct-speed.kbro.com.tw,Speedtest
 HOST,cugspeed.chinaunicomglobal.com,Speedtest
 HOST,cuscspeed.169ol.com,Speedtest
 HOST,custom.tbcnet.net.tw,Speedtest
 HOST,cwf-speedtest-se.clearwave.com,Speedtest
 HOST,d-pcommunications.com,Speedtest
+HOST,da-speed.kbro.com.tw,Speedtest
 HOST,dabwali.softechinfosol.com,Speedtest
 HOST,dal-speedtest.net.sangoma.net,Speedtest
 HOST,dal-speedtest.transtelco.net,Speedtest
@@ -163,6 +165,7 @@ HOST,gre.bbr.ookla.bytel.fr,Speedtest
 HOST,gun1speedtest.turktelekom.com.tr,Speedtest
 HOST,guwahati-speedtest.ishancloud.com,Speedtest
 HOST,guwahati.neconnect.in,Speedtest
+HOST,gvc-speed.twmbroadband.com,Speedtest
 HOST,gwh.speedtest.railtel.in,Speedtest
 HOST,h1-speedtest-ba.htelecom.es,Speedtest
 HOST,h1speedtest.htelecom.es,Speedtest
@@ -185,6 +188,7 @@ HOST,hkgspeedtest.cmctelecom.vn,Speedtest
 HOST,hkspeedtest.netvigator.com,Speedtest
 HOST,hkt.hkspeedtest.com,Speedtest
 HOST,hkthspeedtest02.telstraglobal.net,Speedtest
+HOST,hl-speed.twmbroadband.com,Speedtest
 HOST,hmb-tc.wsqm.telekom-dienste.de,Speedtest
 HOST,hoshiyomi.ratatoskr.org,Speedtest
 HOST,hs13.aratwifi.com.tr,Speedtest
@@ -228,7 +232,9 @@ HOST,kmlpbcnu-speedtest-01.telus.com,Speedtest
 HOST,konya.verinomidns.com,Speedtest
 HOST,konyaspeed.fizynet.com.tr,Speedtest
 HOST,koreaspeedtest.cmctelecom.vn,Speedtest
+HOST,kp-speed.kbro.com.tw,Speedtest
 HOST,krllooklaspeed1.jioconnect.com,Speedtest
+HOST,ks-speed.kbro.com.tw,Speedtest
 HOST,ks-speedtest.homeplus.net.tw,Speedtest
 HOST,ksc11-speedtest01.as15108.com,Speedtest
 HOST,kscy.speedtest.fastwyre.com,Speedtest
@@ -307,6 +313,7 @@ HOST,manchester.speedtest.razorblue.com,Speedtest
 HOST,mars-speedtest.guzel.net.tr,Speedtest
 HOST,marseille3.d2m.c2d.liveservices.fr,Speedtest
 HOST,massarosa-1.speedtest.welcomeitalia.it,Speedtest
+HOST,mct-speed.twmbroadband.com,Speedtest
 HOST,medidor.nortelecom.com.br,Speedtest
 HOST,melndm1speed1.wireline.com.au,Speedtest
 HOST,mensura.cdn-apple.com,Speedtest
@@ -344,6 +351,7 @@ HOST,mumspeedtest.uvfiber.com,Speedtest
 HOST,mumst.bfiber.in,Speedtest
 HOST,nancy.bbr.ookla.bytel.fr,Speedtest
 HOST,navegaooklafortaleza.navegamais.com.br,Speedtest
+HOST,ncc-speed.kbro.com.tw,Speedtest
 HOST,net-ookla-dc.p.foundation,Speedtest
 HOST,net-speed1-pp.ewetel.de,Speedtest
 HOST,netperf-pl.gigatrans.ua,Speedtest
@@ -364,8 +372,11 @@ HOST,ns1.fab5network.com,Speedtest
 HOST,ns1.fybrg.in,Speedtest
 HOST,ns10.fab5network.com,Speedtest
 HOST,ns2.peer.net.in,Speedtest
+HOST,nt-speed.kbro.com.tw,Speedtest
+HOST,ntp-speed.kbro.com.tw,Speedtest
 HOST,ntp-speedtest.homeplus.net.tw,Speedtest
 HOST,ntp1.chtm.hinet.net,Speedtest
+HOST,nty-speed.kbro.com.tw,Speedtest
 HOST,nuevotest.telecable.es,Speedtest
 HOST,nvmbooklaspeed1.jioconnect.com,Speedtest
 HOST,ny.st.spacecore.pro,Speedtest
@@ -511,6 +522,7 @@ HOST,pau.bbr.ookla.bytel.fr,Speedtest
 HOST,pauseq4vost1.datamossa.cloud,Speedtest
 HOST,perf-01.ixn.as42689.net,Speedtest
 HOST,perf.keyyo.net,Speedtest
+HOST,phc-speed.twmbroadband.com,Speedtest
 HOST,phl01.screenshot.download,Speedtest
 HOST,phlph0001speedtestserver02.wiline.com,Speedtest
 HOST,phoenix1.cabospeed.com,Speedtest
@@ -726,6 +738,7 @@ HOST,speed.beachnet.com.br,Speedtest
 HOST,speed.bitnettecnologia.com.br,Speedtest
 HOST,speed.bne.aussiebroadband.com.au,Speedtest
 HOST,speed.brandaonet.com.br,Speedtest
+HOST,speed.cable-giant.com.tw,Speedtest
 HOST,speed.cablelink.at,Speedtest
 HOST,speed.catlabroadband.in,Speedtest
 HOST,speed.circlecityinternet.com,Speedtest
@@ -1055,6 +1068,7 @@ HOST,speedtest-phl.dish-wireless.com,Speedtest
 HOST,speedtest-phx.dish-wireless.com,Speedtest
 HOST,speedtest-pit.omnifiber.com,Speedtest
 HOST,speedtest-pl.the.hosting,Speedtest
+HOST,speedtest-preston-wv.prodigiwv.net,Speedtest
 HOST,speedtest-prs.vts.bf,Speedtest
 HOST,speedtest-pth.vocus.net,Speedtest
 HOST,speedtest-rd-1.zoominternet.net,Speedtest
@@ -1543,6 +1557,7 @@ HOST,speedtest.japanettelecom.com.br,Speedtest
 HOST,speedtest.jbarbieri.net,Speedtest
 HOST,speedtest.jcnettelecom.com,Speedtest
 HOST,speedtest.jeebr.net,Speedtest
+HOST,speedtest.jetair.net.in,Speedtest
 HOST,speedtest.jetspeed.com.br,Speedtest
 HOST,speedtest.jmdi.pl,Speedtest
 HOST,speedtest.jonasdevries.net,Speedtest
@@ -2440,6 +2455,8 @@ HOST,st-balikesirbandirma-1.turksatkablo.com.tr,Speedtest
 HOST,st-be-ba1.infra.garr.it,Speedtest
 HOST,st-be-bo1.infra.garr.it,Speedtest
 HOST,st-be-rm2.infra.garr.it,Speedtest
+HOST,st-be.ba1.infra.garr.it,Speedtest
+HOST,st-be.bo1.infra.garr.it,Speedtest
 HOST,st-bolu-1.turksatkablo.com.tr,Speedtest
 HOST,st-bursa-1.turksatkablo.com.tr,Speedtest
 HOST,st-chicago.sumofiber.com,Speedtest
@@ -2654,6 +2671,7 @@ HOST,syrny-speedtest-ookla-02.st.charter.com,Speedtest
 HOST,t-moni.nebulax.digital,Speedtest
 HOST,t4y-tor-sts1.ser.tek4you.ca,Speedtest
 HOST,t4y-toronto-ca-osts1.ser.tek4you.ca,Speedtest
+HOST,tc-speed.kbro.com.tw,Speedtest
 HOST,tc1.chtm.hinet.net,Speedtest
 HOST,tdc01-speedtest.whipcord.com,Speedtest
 HOST,tem11-speedtest01.as15108.com,Speedtest
@@ -2764,6 +2782,7 @@ HOST,ty-bgp-speedtest.nearoute.io,Speedtest
 HOST,ty-speedtest.homeplus.net.tw,Speedtest
 HOST,ty1.chtm.hinet.net,Speedtest
 HOST,tyo.st.spacecore.pro,Speedtest
+HOST,uc-speed.kbro.com.tw,Speedtest
 HOST,uk-lon-tcy-mtn-speedtest-server-01.mtn.com,Speedtest
 HOST,ukms-speedtest.tropicalgames.net,Speedtest
 HOST,uls1speedtest.turktelekom.com.tr,Speedtest
@@ -2842,7 +2861,9 @@ HOST,wh-netspeed.nwtel.ca,Speedtest
 HOST,wipl-speedtest.wipl.online,Speedtest
 HOST,wpa-speed.magna5.com,Speedtest
 HOST,wrsw-speedtest-02.brightspeed.com,Speedtest
+HOST,yjl-speed.twmbroadband.com,Speedtest
 HOST,yk-netspeed.nwtel.ca,Speedtest
+HOST,yms-speed.kbro.com.tw,Speedtest
 HOST,yyc-speedtest.xplore.ca,Speedtest
 HOST,yyc-speedtest02.xplore.ca,Speedtest
 HOST,yyz-speedtest.xplore.ca,Speedtest
