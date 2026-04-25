@@ -1,5 +1,5 @@
 # 规则名称: Speedtest
-# 规则统计: 3086
+# 规则统计: 3090
 
 HOST,1010.hkspeedtest.com,Speedtest
 HOST,172673828273027382738738.de,Speedtest
@@ -454,6 +454,7 @@ HOST,ookla.b2.neptune.net.au,Speedtest
 HOST,ookla.ber-01.testpub.telefonica.de,Speedtest
 HOST,ookla.besttelekom.com.tr,Speedtest
 HOST,ookla.bigredne.com,Speedtest
+HOST,ookla.cgn-01.testpub.telefonica.de,Speedtest
 HOST,ookla.cozycritters.eu,Speedtest
 HOST,ookla.ct8.as6453.net,Speedtest
 HOST,ookla.delhitel.net,Speedtest
@@ -582,6 +583,8 @@ HOST,rochester.speedtest.rtc1.com,Speedtest
 HOST,rsghost.rsgsn.com,Speedtest
 HOST,rspeed.mi-group.com.tr,Speedtest
 HOST,s.qnid.cc,Speedtest
+HOST,s01.fix-speed.de,Speedtest
+HOST,s02.fix-speed.de,Speedtest
 HOST,sahuarita.speedtest.bluespan.com,Speedtest
 HOST,sam1speedtest.turktelekom.com.tr,Speedtest
 HOST,sanjoseiturbide.openti.mx,Speedtest
@@ -1881,6 +1884,7 @@ HOST,speedtest.pimcommcorp.com,Speedtest
 HOST,speedtest.pinerichland.org,Speedtest
 HOST,speedtest.pingless.com,Speedtest
 HOST,speedtest.pinguimtelecom.net.br,Speedtest
+HOST,speedtest.pl-waw.as210558.net,Speedtest
 HOST,speedtest.planetel.it,Speedtest
 HOST,speedtest.plasmanodes.com,Speedtest
 HOST,speedtest.pld.com,Speedtest
