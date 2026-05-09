@@ -1,5 +1,5 @@
 # 规则名称: Apple
-# 规则统计: 206
+# 规则统计: 207
 
 DOMAIN,7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe
 DOMAIN,api.smoot.apple.cn
@@ -207,3 +207,4 @@ DOMAIN-SUFFIX,www.apple.com
 DOMAIN-SUFFIX,www.apple.com.edgekey.net
 DOMAIN-SUFFIX,www.apple.com.edgekey.net.globalredir.akadns.net
 DOMAIN-SUFFIX,xp.apple.com
+IP-CIDR,17.0.0.0/8,no-resolve

@@ -1,5 +1,5 @@
 # 规则名称: Apple
-# 规则统计: 206
+# 规则统计: 207
 
 HOST,7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe,Apple
 HOST,api.smoot.apple.cn,Apple
@@ -207,3 +207,4 @@ HOST-SUFFIX,www.apple.com,Apple
 HOST-SUFFIX,www.apple.com.edgekey.net,Apple
 HOST-SUFFIX,www.apple.com.edgekey.net.globalredir.akadns.net,Apple
 HOST-SUFFIX,xp.apple.com,Apple
+IP-CIDR,17.0.0.0/8,Apple
