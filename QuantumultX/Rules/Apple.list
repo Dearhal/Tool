@@ -1,5 +1,5 @@
 # 规则名称: Apple
-# 规则统计: 207
+# 规则统计: 209
 
 HOST,7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe,Apple
 HOST,api.smoot.apple.cn,Apple
@@ -59,6 +59,7 @@ HOST-SUFFIX,cl1-cdn.origin-apple.com.akadns.net,Apple
 HOST-SUFFIX,cl1.apple.com,Apple
 HOST-SUFFIX,cl2-cn.apple.com,Apple
 HOST-SUFFIX,cl2.apple.com,Apple
+HOST-SUFFIX,cl2.apple.com.edgekey.net.globalredir.akadns.net,Apple
 HOST-SUFFIX,cl3-cdn.origin-apple.com.akadns.net,Apple
 HOST-SUFFIX,cl3.apple.com,Apple
 HOST-SUFFIX,cl4-cdn.origin-apple.com.akadns.net,Apple
@@ -86,6 +87,7 @@ HOST-SUFFIX,experiments.apple.com,Apple
 HOST-SUFFIX,gs-loc-cn.apple.com,Apple
 HOST-SUFFIX,gs-loc.apple.com,Apple
 HOST-SUFFIX,gsp10-ssl-cn.ls.apple.com,Apple
+HOST-SUFFIX,gsp11-cn.ls.apple.com,Apple
 HOST-SUFFIX,gsp12-cn.ls.apple.com,Apple
 HOST-SUFFIX,gsp13-cn.ls.apple.com,Apple
 HOST-SUFFIX,gsp4-cn.ls.apple.com,Apple
