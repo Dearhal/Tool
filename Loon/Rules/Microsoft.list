@@ -1,5 +1,5 @@
 # 规则名称: Microsoft
-# 规则统计: 152
+# 规则统计: 151
 
 DOMAIN,7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe
 DOMAIN,res-1.cdn.office.net
@@ -51,7 +51,6 @@ DOMAIN-SUFFIX,download.windowsupdate.com
 DOMAIN-SUFFIX,dreamspark.download.prss.microsoft.com
 DOMAIN-SUFFIX,dreamsparkuat.download.prss.microsoft.com
 DOMAIN-SUFFIX,edgesuite.net
-DOMAIN-SUFFIX,fs.microsoft.com
 DOMAIN-SUFFIX,gfx.ms
 DOMAIN-SUFFIX,github.com
 DOMAIN-SUFFIX,github.io
