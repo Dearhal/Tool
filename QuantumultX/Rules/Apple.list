@@ -1,5 +1,5 @@
 # 规则名称: Apple
-# 规则统计: 209
+# 规则统计: 189
 
 HOST,7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe,Apple
 HOST,api.smoot.apple.cn,Apple
@@ -19,11 +19,7 @@ HOST-SUFFIX,a5.mzstatic.com,Apple
 HOST-SUFFIX,aaplimg.com,Apple
 HOST-SUFFIX,adcdownload.apple.com,Apple
 HOST-SUFFIX,adcdownload.apple.com.akadns.net,Apple
-HOST-SUFFIX,amp-api-updates.apps.apple.com,Apple
 HOST-SUFFIX,amp-api.media.apple.com,Apple
-HOST-SUFFIX,api-p-ap-c.smoot.apple.com,Apple
-HOST-SUFFIX,api-p-ap-d.smoot.apple.com,Apple
-HOST-SUFFIX,api-p-ap-e.smoot.apple.com,Apple
 HOST-SUFFIX,app-site-association.cdn-apple.com,Apple
 HOST-SUFFIX,appldnld.apple.com,Apple
 HOST-SUFFIX,appldnld.g.aaplimg.com,Apple
@@ -35,11 +31,9 @@ HOST-SUFFIX,apple.com,Apple
 HOST-SUFFIX,apple.com.cn,Apple
 HOST-SUFFIX,apple.news,Apple
 HOST-SUFFIX,appleid.cdn-apple.com,Apple
-HOST-SUFFIX,apps.apple.com,Apple
 HOST-SUFFIX,apps.mzstatic.com,Apple
 HOST-SUFFIX,appsto.re,Apple
 HOST-SUFFIX,appstore.com,Apple
-HOST-SUFFIX,bag-cdn.itunes-apple.com.akadns.net,Apple
 HOST-SUFFIX,cdn-apple.com,Apple
 HOST-SUFFIX,cdn-cn1.apple-mapkit.com,Apple
 HOST-SUFFIX,cdn-cn2.apple-mapkit.com,Apple
@@ -91,7 +85,6 @@ HOST-SUFFIX,gsp11-cn.ls.apple.com,Apple
 HOST-SUFFIX,gsp12-cn.ls.apple.com,Apple
 HOST-SUFFIX,gsp13-cn.ls.apple.com,Apple
 HOST-SUFFIX,gsp4-cn.ls.apple.com,Apple
-HOST-SUFFIX,gsp4-cn.ls.apple.com.edgekey.net,Apple
 HOST-SUFFIX,gsp4-cn.ls.apple.com.edgekey.net.globalredir.akadns.net,Apple
 HOST-SUFFIX,gsp5-cn.ls.apple.com,Apple
 HOST-SUFFIX,gsp85-cn-ssl.ls.apple.com,Apple
@@ -101,34 +94,26 @@ HOST-SUFFIX,gspe19-cn-ssl.ls.apple.com,Apple
 HOST-SUFFIX,gspe19-cn.ls-apple.com.akadns.net,Apple
 HOST-SUFFIX,gspe19-cn.ls.apple.com,Apple
 HOST-SUFFIX,gspe21-ssl.ls.apple.com,Apple
-HOST-SUFFIX,gspe21.ls.apple.com,Apple
 HOST-SUFFIX,gspe35-ssl.ls.apple.com,Apple
 HOST-SUFFIX,gspe79-cn-ssl.ls.apple.com,Apple
 HOST-SUFFIX,guzzoni-apple-com.v.aaplimg.com,Apple
 HOST-SUFFIX,guzzoni.apple.com,Apple
 HOST-SUFFIX,guzzoni.smoot.apple.com,Apple
 HOST-SUFFIX,iadsdk.apple.com,Apple
-HOST-SUFFIX,icloud-cdn.icloud.com.akadns.net,Apple
 HOST-SUFFIX,icloud-content.com,Apple
-HOST-SUFFIX,icloud.cdn-apple.com,Apple
 HOST-SUFFIX,icloud.com,Apple
 HOST-SUFFIX,icloud.com.cn,Apple
-HOST-SUFFIX,images.apple.com,Apple
-HOST-SUFFIX,images.apple.com.akadns.net,Apple
 HOST-SUFFIX,images.apple.com.edgekey.net.globalredir.akadns.net,Apple
 HOST-SUFFIX,init-kt.apple.com,Apple
 HOST-SUFFIX,init-p01md-lb.push-apple.com.akadns.net,Apple
 HOST-SUFFIX,init-p01md.apple.com,Apple
 HOST-SUFFIX,init-p01st-lb.push-apple.com.akadns.net,Apple
-HOST-SUFFIX,init-p01st.push.apple.com,Apple
 HOST-SUFFIX,init-s01st-lb.push-apple.com.akadns.net,Apple
-HOST-SUFFIX,init-s01st.push.apple.com,Apple
 HOST-SUFFIX,init.ess.apple.com,Apple
 HOST-SUFFIX,iosapps.itunes.g.aaplimg.com,Apple
 HOST-SUFFIX,ipcdn.apple.com,Apple
 HOST-SUFFIX,iphone-ld.apple.com,Apple
 HOST-SUFFIX,iphone-ld.origin-apple.com.akadns.net,Apple
-HOST-SUFFIX,is-ssl.mzstatic.com-cn-lb.itunes-apple.com.akadns.net,Apple
 HOST-SUFFIX,is1-ssl.mzstatic.com,Apple
 HOST-SUFFIX,is1.mzstatic.com,Apple
 HOST-SUFFIX,is2-ssl.mzstatic.com,Apple
@@ -149,22 +134,18 @@ HOST-SUFFIX,mesu-china.apple.com.akadns.net,Apple
 HOST-SUFFIX,mesu.apple.com,Apple
 HOST-SUFFIX,ml.cdn-apple.com,Apple
 HOST-SUFFIX,music.apple.com,Apple
-HOST-SUFFIX,ocsp-lb.apple.com.akadns.net,Apple
 HOST-SUFFIX,ocsp.apple.com,Apple
-HOST-SUFFIX,ocsp2-lb.apple.com.akadns.net,Apple
 HOST-SUFFIX,ocsp2.apple.com,Apple
 HOST-SUFFIX,organicfruitapps.com,Apple
 HOST-SUFFIX,oscdn.apple.com,Apple
 HOST-SUFFIX,oscdn.origin-apple.com.akadns.net,Apple
 HOST-SUFFIX,osxapps.itunes.g.aaplimg.com,Apple
 HOST-SUFFIX,pancake.apple.com,Apple
-HOST-SUFFIX,pancake.cdn-apple.com.akadns.net,Apple
 HOST-SUFFIX,pba0.apple.com,Apple
 HOST-SUFFIX,probe.siri.apple.com,Apple
 HOST-SUFFIX,prod-support.apple-support.akadns.net,Apple
 HOST-SUFFIX,publicassets.cdn-apple.com,Apple
 HOST-SUFFIX,push-apple.com.akadns.net,Apple
-HOST-SUFFIX,reserve-prime.apple.com,Apple
 HOST-SUFFIX,s.mzstatic.com,Apple
 HOST-SUFFIX,seed-sequoia.siri.apple.com,Apple
 HOST-SUFFIX,seed-swallow.siri.apple.com,Apple
@@ -206,7 +187,6 @@ HOST-SUFFIX,weather-map.apple.com,Apple
 HOST-SUFFIX,weather-map2.apple.com,Apple
 HOST-SUFFIX,weatherkit.apple.com,Apple
 HOST-SUFFIX,www.apple.com,Apple
-HOST-SUFFIX,www.apple.com.edgekey.net,Apple
 HOST-SUFFIX,www.apple.com.edgekey.net.globalredir.akadns.net,Apple
 HOST-SUFFIX,xp.apple.com,Apple
 IP-CIDR,17.0.0.0/8,Apple
