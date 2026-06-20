@@ -1,5 +1,5 @@
 # 规则名称: Apple
-# 规则统计: 189
+# 规则统计: 190
 
 DOMAIN,7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe
 DOMAIN,api.smoot.apple.cn
@@ -129,6 +129,7 @@ DOMAIN-SUFFIX,itunes.apple.com
 DOMAIN-SUFFIX,itunes.com
 DOMAIN-SUFFIX,itunesconnect.apple.com
 DOMAIN-SUFFIX,me.com
+DOMAIN-SUFFIX,mensura.cdn-apple.com
 DOMAIN-SUFFIX,mesu-cdn.apple.com.akadns.net
 DOMAIN-SUFFIX,mesu-china.apple.com.akadns.net
 DOMAIN-SUFFIX,mesu.apple.com
