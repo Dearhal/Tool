@@ -1,12 +1,11 @@
 # 规则名称: Microsoft
-# 规则统计: 150
+# 规则统计: 154
 
 DOMAIN,7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe
 DOMAIN,res-1.cdn.office.net
 DOMAIN,res-2.cdn.office.net
 DOMAIN,res-h3.public.cdn.office.net
 DOMAIN,res.cdn.office.net
-DOMAIN,statics.teams.cdn.office.net
 DOMAIN-SUFFIX,aadrm.com
 DOMAIN-SUFFIX,acompli.com
 DOMAIN-SUFFIX,acompli.net
@@ -24,6 +23,7 @@ DOMAIN-SUFFIX,azuremigratetest.download.prss.microsoft.com
 DOMAIN-SUFFIX,azurerms.com
 DOMAIN-SUFFIX,azurestackhub.download.prss.microsoft.com
 DOMAIN-SUFFIX,azurestackhubuat.download.prss.microsoft.com
+DOMAIN-SUFFIX,b.c2r.ts.cdn.office.net
 DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,bing.com.cn
 DOMAIN-SUFFIX,bing.net
@@ -50,6 +50,7 @@ DOMAIN-SUFFIX,download.windowsupdate.com
 DOMAIN-SUFFIX,dreamspark.download.prss.microsoft.com
 DOMAIN-SUFFIX,dreamsparkuat.download.prss.microsoft.com
 DOMAIN-SUFFIX,edgesuite.net
+DOMAIN-SUFFIX,f.c2r.ts.cdn.office.net
 DOMAIN-SUFFIX,gfx.ms
 DOMAIN-SUFFIX,github.com
 DOMAIN-SUFFIX,github.io
@@ -112,15 +113,18 @@ DOMAIN-SUFFIX,sfbassets.com
 DOMAIN-SUFFIX,sfx.ms
 DOMAIN-SUFFIX,sharepoint.com
 DOMAIN-SUFFIX,sharepointonline.com
+DOMAIN-SUFFIX,shell.cdn.office.net
 DOMAIN-SUFFIX,skype.com
 DOMAIN-SUFFIX,skypeassets.com
 DOMAIN-SUFFIX,skypeforbusiness.com
 DOMAIN-SUFFIX,software.download.prss.microsoft.com
 DOMAIN-SUFFIX,staffhub.ms
+DOMAIN-SUFFIX,statics.teams.cdn.office.net
 DOMAIN-SUFFIX,storecorefulfillment.download.prss.microsoft.com
 DOMAIN-SUFFIX,storeedge.microsoft.com
 DOMAIN-SUFFIX,storeedgefd.dsx.mp.microsoft.com
 DOMAIN-SUFFIX,surface.download.prss.microsoft.com
+DOMAIN-SUFFIX,surface.downloads.prss.microsoft.com
 DOMAIN-SUFFIX,svc.ms
 DOMAIN-SUFFIX,sway-cdn.com
 DOMAIN-SUFFIX,sway-extensions.com

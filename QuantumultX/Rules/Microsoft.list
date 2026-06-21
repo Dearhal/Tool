@@ -1,12 +1,11 @@
 # 规则名称: Microsoft
-# 规则统计: 150
+# 规则统计: 154
 
 HOST,7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe,Microsoft
 HOST,res-1.cdn.office.net,Microsoft
 HOST,res-2.cdn.office.net,Microsoft
 HOST,res-h3.public.cdn.office.net,Microsoft
 HOST,res.cdn.office.net,Microsoft
-HOST,statics.teams.cdn.office.net,Microsoft
 HOST-SUFFIX,aadrm.com,Microsoft
 HOST-SUFFIX,acompli.com,Microsoft
 HOST-SUFFIX,acompli.net,Microsoft
@@ -24,6 +23,7 @@ HOST-SUFFIX,azuremigratetest.download.prss.microsoft.com,Microsoft
 HOST-SUFFIX,azurerms.com,Microsoft
 HOST-SUFFIX,azurestackhub.download.prss.microsoft.com,Microsoft
 HOST-SUFFIX,azurestackhubuat.download.prss.microsoft.com,Microsoft
+HOST-SUFFIX,b.c2r.ts.cdn.office.net,Microsoft
 HOST-SUFFIX,bing.com,Microsoft
 HOST-SUFFIX,bing.com.cn,Microsoft
 HOST-SUFFIX,bing.net,Microsoft
@@ -50,6 +50,7 @@ HOST-SUFFIX,download.windowsupdate.com,Microsoft
 HOST-SUFFIX,dreamspark.download.prss.microsoft.com,Microsoft
 HOST-SUFFIX,dreamsparkuat.download.prss.microsoft.com,Microsoft
 HOST-SUFFIX,edgesuite.net,Microsoft
+HOST-SUFFIX,f.c2r.ts.cdn.office.net,Microsoft
 HOST-SUFFIX,gfx.ms,Microsoft
 HOST-SUFFIX,github.com,Microsoft
 HOST-SUFFIX,github.io,Microsoft
@@ -112,15 +113,18 @@ HOST-SUFFIX,sfbassets.com,Microsoft
 HOST-SUFFIX,sfx.ms,Microsoft
 HOST-SUFFIX,sharepoint.com,Microsoft
 HOST-SUFFIX,sharepointonline.com,Microsoft
+HOST-SUFFIX,shell.cdn.office.net,Microsoft
 HOST-SUFFIX,skype.com,Microsoft
 HOST-SUFFIX,skypeassets.com,Microsoft
 HOST-SUFFIX,skypeforbusiness.com,Microsoft
 HOST-SUFFIX,software.download.prss.microsoft.com,Microsoft
 HOST-SUFFIX,staffhub.ms,Microsoft
+HOST-SUFFIX,statics.teams.cdn.office.net,Microsoft
 HOST-SUFFIX,storecorefulfillment.download.prss.microsoft.com,Microsoft
 HOST-SUFFIX,storeedge.microsoft.com,Microsoft
 HOST-SUFFIX,storeedgefd.dsx.mp.microsoft.com,Microsoft
 HOST-SUFFIX,surface.download.prss.microsoft.com,Microsoft
+HOST-SUFFIX,surface.downloads.prss.microsoft.com,Microsoft
 HOST-SUFFIX,svc.ms,Microsoft
 HOST-SUFFIX,sway-cdn.com,Microsoft
 HOST-SUFFIX,sway-extensions.com,Microsoft
