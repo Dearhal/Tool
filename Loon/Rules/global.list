@@ -1,5 +1,5 @@
 # 规则名称: global
-# 规则统计: 1266
+# 规则统计: 1269
 
 DOMAIN,7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe
 DOMAIN,ccmdl.adobe.com
@@ -106,6 +106,7 @@ DOMAIN-SUFFIX,astrill.org
 DOMAIN-SUFFIX,at
 DOMAIN-SUFFIX,atlassian.com
 DOMAIN-SUFFIX,atlassian.net
+DOMAIN-SUFFIX,atmeta.com
 DOMAIN-SUFFIX,atom.com
 DOMAIN-SUFFIX,au
 DOMAIN-SUFFIX,auth0.com
@@ -131,6 +132,7 @@ DOMAIN-SUFFIX,bandcamp.com
 DOMAIN-SUFFIX,bandwagonhost.com
 DOMAIN-SUFFIX,bang.com
 DOMAIN-SUFFIX,bangumi.moe
+DOMAIN-SUFFIX,bangumi.tv
 DOMAIN-SUFFIX,bbc.com
 DOMAIN-SUFFIX,bblmw.com
 DOMAIN-SUFFIX,be
@@ -1076,6 +1078,7 @@ DOMAIN-SUFFIX,tinypng.com
 DOMAIN-SUFFIX,tinyurl.com
 DOMAIN-SUFFIX,tktube.com
 DOMAIN-SUFFIX,tmagazine.com
+DOMAIN-SUFFIX,tmdb.org
 DOMAIN-SUFFIX,tnaflix.com
 DOMAIN-SUFFIX,to
 DOMAIN-SUFFIX,tokto-motion.net
