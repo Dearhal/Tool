@@ -1,5 +1,5 @@
 # 规则名称: Microsoft
-# 规则统计: 151
+# 规则统计: 150
 
 HOST,7h15.ru1353t.1s.m4d3.by.5ukk4w.skk.moe,Microsoft
 HOST,res-1.cdn.office.net,Microsoft
@@ -43,7 +43,6 @@ HOST-SUFFIX,collaborateppe.download.prss.microsoft.com,Microsoft
 HOST-SUFFIX,ctldl.windowsupdate.com,Microsoft
 HOST-SUFFIX,dl.delivery.mp.microsoft.com,Microsoft
 HOST-SUFFIX,docs.com,Microsoft
-HOST-SUFFIX,download.microsoft.com,Microsoft
 HOST-SUFFIX,download.visualstudio.microsoft.com,Microsoft
 HOST-SUFFIX,download.windowsupdate.com,Microsoft
 HOST-SUFFIX,dreamspark.download.prss.microsoft.com,Microsoft
