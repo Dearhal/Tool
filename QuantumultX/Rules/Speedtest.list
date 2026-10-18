@@ -1,5 +1,5 @@
 # 规则名称: Speedtest
-# 规则统计: 3434
+# 规则统计: 3440
 
 HOST,1010.hkspeedtest.com,Speedtest
 HOST,172673828273027382738738.de,Speedtest
@@ -115,6 +115,7 @@ HOST,de-ffm1-ookla-01.wemacom.net,Speedtest
 HOST,de-fra2-lg1.level66.network,Speedtest
 HOST,de-lg.h2.nexus,Speedtest
 HOST,de-speedtest.digitalexample.com,Speedtest
+HOST,de.riospeed.com,Speedtest
 HOST,de.st.spacecore.pro,Speedtest
 HOST,debit.psrv.ch,Speedtest
 HOST,dehradun.blueskynetwork.in,Speedtest
@@ -424,6 +425,8 @@ HOST,ookla-atl.gigsouth.com,Speedtest
 HOST,ookla-autazes.amazoniasat-isp.com.br,Speedtest
 HOST,ookla-ber.evolushost.com,Speedtest
 HOST,ookla-crw.wvnet.edu,Speedtest
+HOST,ookla-dc3.services.proxad.net,Speedtest
+HOST,ookla-dc5.services.proxad.net,Speedtest
 HOST,ookla-dfw.gigsouth.com,Speedtest
 HOST,ookla-estepona.aerioncloud.com,Speedtest
 HOST,ookla-in.mercuryfiber.com,Speedtest
@@ -432,12 +435,14 @@ HOST,ookla-ks.mercuryfiber.com,Speedtest
 HOST,ookla-lax.extentit.com,Speedtest
 HOST,ookla-london.briantbroadband.com,Speedtest
 HOST,ookla-london01.tropicalgames.net,Speedtest
+HOST,ookla-lyo.services.proxad.net,Speedtest
 HOST,ookla-mgw.wvnet.edu,Speedtest
 HOST,ookla-mi.tech.tiscali.it,Speedtest
 HOST,ookla-mi01.nexim.it,Speedtest
 HOST,ookla-mia.gigsouth.com,Speedtest
 HOST,ookla-mil.seeweb.it,Speedtest
 HOST,ookla-mispeed.rackgenius.com,Speedtest
+HOST,ookla-mrs.services.proxad.net,Speedtest
 HOST,ookla-rm.tech.tiscali.it,Speedtest
 HOST,ookla-server.vim.web.tr,Speedtest
 HOST,ookla-speedtest-central.hgconair.hgc.com.hk,Speedtest
@@ -3317,6 +3322,7 @@ HOST,wybo-speedtest.northstate.net,Speedtest
 HOST,yjl-speed.twmbroadband.com,Speedtest
 HOST,yk-netspeed.nwtel.ca,Speedtest
 HOST,yms-speed.kbro.com.tw,Speedtest
+HOST,yyc-speedtest.xeronetworks.co.uk,Speedtest
 HOST,yyc-speedtest.xplore.ca,Speedtest
 HOST,yyc-speedtest02.xplore.ca,Speedtest
 HOST,yyz-speedtest.xplore.ca,Speedtest
