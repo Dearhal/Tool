@@ -1,5 +1,5 @@
 # 规则名称: Speedtest
-# 规则统计: 3444
+# 规则统计: 3448
 
 HOST,1010.hkspeedtest.com,Speedtest
 HOST,172673828273027382738738.de,Speedtest
@@ -457,6 +457,7 @@ HOST,ookla.a1.neptune.net.au,Speedtest
 HOST,ookla.a56.as6453.net,Speedtest
 HOST,ookla.aeq.as6453.net,Speedtest
 HOST,ookla.alcloud.com.br,Speedtest
+HOST,ookla.alida.it,Speedtest
 HOST,ookla.amazoniasat-isp.com.br,Speedtest
 HOST,ookla.ams.atharva.co.id,Speedtest
 HOST,ookla.apuacom.it,Speedtest
@@ -572,6 +573,7 @@ HOST,pathsalaspeedtest.ngcbroadband.com,Speedtest
 HOST,pauseq4vost1.datamossa.cloud,Speedtest
 HOST,perf-01.ixn.as42689.net,Speedtest
 HOST,perf.keyyo.net,Speedtest
+HOST,perf1.moji1.sapi.net,Speedtest
 HOST,phc-speed.twmbroadband.com,Speedtest
 HOST,phl01.screenshot.download,Speedtest
 HOST,phlph0001speedtestserver02.wiline.com,Speedtest
@@ -1164,6 +1166,7 @@ HOST,speedtest-mum.froze.in,Speedtest
 HOST,speedtest-mumbai.scify.co.in,Speedtest
 HOST,speedtest-naw.pr-link.at,Speedtest
 HOST,speedtest-net-fra.dispaisy.systems,Speedtest
+HOST,speedtest-net.hyprnode.de,Speedtest
 HOST,speedtest-net.mk.de,Speedtest
 HOST,speedtest-net.xjtlu.edu.cn,Speedtest
 HOST,speedtest-newcastle.optusnet.com.au,Speedtest
@@ -3227,6 +3230,7 @@ HOST,tsdvuspeedtest01p.allstream.com,Speedtest
 HOST,tul-speedtest.onenet.net,Speedtest
 HOST,turknet16.residential.tr,Speedtest
 HOST,two.speed.airc.it,Speedtest
+HOST,tx.speedtest.openinfra.com,Speedtest
 HOST,txdllsspeedtest01.mybluepeak.net,Speedtest
 HOST,txg-speedtest.infinirc.com,Speedtest
 HOST,ty-bgp-speedtest.nearoute.io,Speedtest
