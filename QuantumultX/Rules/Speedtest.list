@@ -1,5 +1,5 @@
 # 规则名称: Speedtest
-# 规则统计: 3467
+# 规则统计: 3469
 
 HOST,1010.hkspeedtest.com,Speedtest
 HOST,172673828273027382738738.de,Speedtest
@@ -169,6 +169,7 @@ HOST,fl.speedtest.openinfra.com,Speedtest
 HOST,fla-st01.provenet.com.br,Speedtest
 HOST,fla.brisanet.eu.org,Speedtest
 HOST,fr-1.node.delton.ovh,Speedtest
+HOST,fra-de-008.xvperf.net,Speedtest
 HOST,fra-eq5-tptest1.31173.se,Speedtest
 HOST,fra.speedtest.csgobans.com,Speedtest
 HOST,fra1speedtest01.skylogic.com,Speedtest
@@ -556,6 +557,7 @@ HOST,ookla2.mbspeed.net,Speedtest
 HOST,ookla3.1und1-mobilfunk.de,Speedtest
 HOST,ooklaserver.aryk.fr,Speedtest
 HOST,ooklaserver1-del1.skymaxbroadband.com,Speedtest
+HOST,ooklaspdtstsvr.zitel.com,Speedtest
 HOST,ooklaspeed.statenet.in,Speedtest
 HOST,ooklaspeed.ttron.eu,Speedtest
 HOST,ooklaspeedtest-cdv.quebeccloud.com,Speedtest
