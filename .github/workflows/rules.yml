@@ -34,15 +34,20 @@ jobs:
             # 合并域名拦截规则集
             urls=(
                 "https://ruleset.skk.moe/List/domainset/reject.conf"
+                "https://ruleset.skk.moe/List/domainset/reject_extra.conf"
+                "https://ruleset.skk.moe/List/domainset/reject_phishing.conf"
+                "https://ruleset.skk.moe/List/non_ip/my_reject.conf"
+                "https://ruleset.skk.moe/List/non_ip/reject-no-drop.conf"
+                "https://ruleset.skk.moe/List/non_ip/reject-url-regex.conf"
                 "https://ruleset.skk.moe/List/non_ip/reject.conf"
                 "https://raw.githubusercontent.com/Dearhal/Tool/refs/heads/main/Surge/Rules/Reject.list"
                 "https://raw.githubusercontent.com/Repcz/Tool/X/Surge/Custom/Reject.list"
             )
-            > Tool-repo/Ruleset/Ad_Blocking.list
+            > Tool-repo/Ruleset/reject_domain.list
             for url in "${urls[@]}"; do
                 echo "Downloading: $url"
-                curl -f -L "$url" >> Tool-repo/Ruleset/Ad_Blocking.list || { echo "Download Failed: $url"; exit 1; }
-                echo "" >> Tool-repo/Ruleset/Ad_Blocking.list
+                curl -f -L "$url" >> Tool-repo/Ruleset/reject_domain.list || { echo "Download Failed: $url"; exit 1; }
+                echo "" >> Tool-repo/Ruleset/reject_domain.list
             done
             # 合并苹果域名规则
             urls=(
